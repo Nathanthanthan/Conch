@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "conch",
+  "productName": "Conch",
   "version": "0.1.0",
   "identifier": "com.conch.app",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "conch",
+        "title": "Conch",
         "width": 800,
         "height": 600
       }
